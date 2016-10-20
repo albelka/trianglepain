@@ -1,0 +1,25 @@
+.celebrity1 {
+  display: none;
+  width: 300px;
+}
+
+.celebrity2 {
+  display: none;
+  width: 300px;
+}
+
+.celebrity3 {
+  display: none;
+}
+
+.celebrity4 {
+  display: none;
+}
+
+img {
+  width: 400px;
+}
+
+.red {
+  border-color: red;
+}
